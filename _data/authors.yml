@@ -1,0 +1,140 @@
+Brent G:
+  name: "Brent Gruenke"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bio: "HCDE Student"
+  school: "University of Washington"
+  uri: "http://brentgruenke.com"
+  email: "bgruenke@uw.edu"
+
+Lucas C:
+  name: "Lucas Colusso"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bio: "Ph.D. Candidate"
+  school: "University of Washington"
+  uri: "http://lucascolusso.com"
+  email: "colusso@uw.edu"
+
+Gary H:
+  name: "Gary Hsieh"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bio: "Associate Professor"
+  school: "University of Washington"
+  uri: "https://faculty.washington.edu/garyhs/"
+  email: "garyhs@uw.edu"
+
+Elena A:
+  name: "Elena Agapie"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bio: "Ph.D. Candidate"
+  school: "University of Washington"
+  uri: "http://eagapie.com/"
+  email: "eagapie@uw.edu"
+
+Mia S:
+  name: "Mia Suh"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bio: "Ph.D. Candidate"
+  school: "University of Washington"
+  uri: "http://miasuh.info/"
+  email: "miasuh@uw.edu"
+
+Kerem O:
+  name: "Kerem Ozcan"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bio: "Ph.D. Candidate"
+  school: "University of Washington"
+  uri: "https://about.me/keremozcan"
+  email: "kozcan@uw.edu"
+
+Rafal K:
+  name: "Rafal Kocielnik"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bio: "Ph.D. Candidate"
+  school: "University of Washington"
+  uri: "https://about.me/keremozcan"
+  email: "rkoc@uw.edu"
+
+Tess:
+  name: "Tess Wolfe-Stelzer"
+
+Christina M:
+  name: "Christina Mauri"
+
+Elise:
+  name: "Elise Livingston"
+  uri: "http://eliselivingston.design/"
+
+Samantha M:
+  name: "Samantha Muscat-Sherr"
+  uri: "http://sms.design/"
+
+Haley R:
+  name: "Haley Rohl"
+  uri: "https://www.haleyhanda.com/"
+
+Noreen W:
+  name: "Noreen Watson"
+  uri: "https://scholar.google.com/citations?user=v523vxgAAAAJ&hl=en"
+
+Blake T:
+  name: "Blake Tsuzaki"
+  uri: "baddaboo.github.io"
+
+Jose L:
+  name: "José Lara Silva"
+  uri: "http://malvenko.net/"
+
+Stefanie F:
+  name: "Stefanie Funtsch"
+  uri: "sfuntsch@uw.edu"
+
+Erika L:
+  name: "Erika Langhauser"
+
+Pierre D:
+  name: "Pierre Delcourt"
+
+Nicole V:
+  name: "Nicole VanMeter"
+  uri: "https://twitter.com/nicoleavanmeter"
+
+Alik B:
+  name: "Alik Brundrett"
+  uri: "http://www.alik.design/"
+
+Elise L:
+  name: "Elise Livingston"
+  uri: "http://eliselivingston.design/"
+
+#author:
+  #name             : "DubDeck"
+  #avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  #bio              : "I am an amazing person."
+  #school: "University of Washington"
+  #email            : "bgruenke@uw.edu"
+  #uri              :
+  #location         : "Seattle, Washington"
+  #home             : # null (default), "absolute or relative url to link to author home"
+  #bitbucket        :
+  #codepen          :
+  #dribbble         :
+  #flickr           :
+  #facebook         :
+  #foursquare       :
+  #github           :
+  #gitlab           :
+  #google_plus      :
+  #keybase          :
+  #instagram        :
+  #lastfm           :
+  #linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  #pinterest        :
+  #soundcloud       :
+  #stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  #steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  #tumblr           :
+  #twitter          :
+  #vine             :
+  #weibo            :
+  #xing             :
+  #youtube          : # "https://youtube.com/c/MichaelRoseDesign"
